@@ -1,4 +1,4 @@
-package com.example.domain.movie.builder
+package com.example.infrastructure.movie.builder
 
 import com.example.domain.movie.entity.Movie
 

@@ -1,8 +1,8 @@
-package com.example.domain.movie.builder
+package com.example.infrastructure.movie.builder
 
 import com.example.domain.movie.entity.Movie
 
-class MovieBuilder {
+class MovieBuilderTest {
     private var id: Int = 1
     private var title: String = ""
     private var overview: String = ""
